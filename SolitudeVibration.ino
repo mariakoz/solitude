@@ -1,6 +1,6 @@
 /*
   Basic Solitude Vibration pattern
- */
+  Lorum Ipsum
 
 
 // the setup function runs once when you press reset or power the board
