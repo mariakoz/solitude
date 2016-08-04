@@ -1,0 +1,8 @@
+IBI is the amount of time between heartbeats and is calculated by diving the beats per minute with 60000 (60000ms in a minute). So IBI = 60000/bpm. 
+As a rule we can claim that:
+
+Fast heartbeat: 85 bpm or above (706 IBI or lower)
+
+Normal Heartbeat: 60 - 85 bpm (1000) (IBI is between 706 - 1000)
+
+Slow heartbeat: Under 60 bpm (IBI is 1000 or greater)
